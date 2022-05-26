@@ -1,0 +1,19 @@
+{
+    "name": "typescript-pratica",
+    "version": "1.0.0",
+    "description": "Laboratório Spread - Dio JavaScript na prática",
+    "main": "index.js",
+    "scripts": {
+        "start": "parcel index.html",
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "Claudio Buzzolini Sanches",
+    "license": "ISC",
+    "dependencies": {
+        "jquery": "^3.6.0",
+        "parcel-bundler": "^1.12.5"
+    },
+    "devDependencies": {
+        "typescript": "^4.7.2"
+    }
+}
